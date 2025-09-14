@@ -2,6 +2,9 @@
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
+## Dataset Used
+- <a href="https://github.com/Adit8639/Data-Analysis-Dashboard-Using-Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx" > Dataset</a>
+
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -12,6 +15,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+
+- Dashboard interaction <a
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
